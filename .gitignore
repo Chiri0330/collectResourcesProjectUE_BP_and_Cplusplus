@@ -2,8 +2,13 @@ Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-.vscode/
-.idea/
 *.log
 *.pdb
 *.obj
+*.pak
+*.ucas
+*.utoc
+WindowsNoEditor/
+LinuxNoEditor/
+Android_*/
+IOS/
