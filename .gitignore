@@ -11,4 +11,11 @@ Saved/
 WindowsNoEditor/
 LinuxNoEditor/
 Android_*/
+IOS/**/Paks/
+*.pak
+*.ucas
+*.utoc
+WindowsNoEditor/
+LinuxNoEditor/
+Android_*/
 IOS/
